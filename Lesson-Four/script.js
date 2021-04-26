@@ -1,4 +1,5 @@
 const canvas = document.querySelector('canvas.webgl')
+console.log(gsap)
 
 // Scene
 const scene = new THREE.Scene()
@@ -55,6 +56,9 @@ const clock = new THREE.Clock()
 let time = Date.now()
 
 // Animation
+gsap.to(cubeB.position, { duration: 1, delay: 1, x: 2 })
+gsap.to(cubeB.position, { duration: 1, delay: 2, x: 0 })
+
 const tick = () => {
 
     // Time
