@@ -1,5 +1,7 @@
+import { OrbitControls } from "./three.js-master/examples/jsm/controls/OrbitControls.js"
+
+// Canvas
 const canvas = document.querySelector('canvas.webgl')
-console.log(gsap)
 
 // Scene
 const scene = new THREE.Scene()
@@ -13,7 +15,7 @@ const cubeA = new THREE.Mesh(
     new THREE.MeshBasicMaterial({ color: 0xff0000 })
 )
 cubeA.position.x = 2
-group.add(cubeA)
+
 
 const cubeB = new THREE.Mesh (
     new THREE.BoxGeometry(1, 1, 1),
@@ -27,7 +29,7 @@ const cubeC = new THREE.Mesh (
     new THREE.MeshBasicMaterial({ color: 0x00fff0 })
 )
 cubeC.position.x = -2
-group.add(cubeC)
+
 
 
 // Axes
@@ -93,23 +95,26 @@ const tick = () => {
         camera.lookAt(cubeB.position)*/
 
     // Camera Animations
-    const cameraAnimations = {
-        closePerespectiveX: cursor.x * 3,
-        closePerespectiveY: cursor.y * 3,
-        widePrespectiveTwoX: cursor.x * 10,
-        widePerespectiveTwoY: cursor.y * 10,
-        roundPerespectiveX: Math.cos(cursor.x * 10) * 3,
-        roundPerespectiveZ: Math.sin(cursor.x * 10) * 3,
-        naturalRoundPerespectiveX: Math.cos(cursor.x * Math.PI * 2) * 3,
-        naturalRoundPerespectiveZ: Math.sin(cursor.x * Math.PI * 2) * 3,
-        upDownPerespectiveY: cursor.y * 5
-    }
+    /* const cameraAnimations = {
+            closePerespectiveX: cursor.x * 3,
+            closePerespectiveY: cursor.y * 3,
+            widePrespectiveTwoX: cursor.x * 10,
+            widePerespectiveTwoY: cursor.y * 10,
+            roundPerespectiveX: Math.cos(cursor.x * 10) * 3,
+            roundPerespectiveZ: Math.sin(cursor.x * 10) * 3,
+            naturalRoundPerespectiveX: Math.cos(cursor.x * Math.PI * 2) * 3,
+            naturalRoundPerespectiveZ: Math.sin(cursor.x * Math.PI * 2) * 3,
+            upDownPerespectiveY: cursor.y * 5
+        } */
 
     // Update Camera
-    camera.position.x = cameraAnimations.naturalRoundPerespectiveX
-    camera.position.y =  cameraAnimations.upDownPerespectiveY
-    camera.position.z =  cameraAnimations.naturalRoundPerespectiveZ
-    camera.lookAt(new THREE.Vector3())
+    /* camera.position.x = cameraAnimations.naturalRoundPerespectiveX
+        camera.position.y =  cameraAnimations.upDownPerespectiveY
+        camera.position.z =  cameraAnimations.naturalRoundPerespectiveZ
+        camera.lookAt(new THREE.Vector3()) */
+
+    // Controls
+    const controls = new OrbitControls(camera, canvas)
 
     // Render
     renderer.render(scene, camera)
