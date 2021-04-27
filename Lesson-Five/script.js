@@ -41,9 +41,24 @@ const sizes = {
 }
 
 // Camera
-const camera = new THREE.PerspectiveCamera(75, sizes.width / sizes.height)
+/* const newCamera = new THREE.OrthographicCamera(-1 * aspectRation, 1 * aspectRation, 1, -1, 0.1, 100) */
+const aspectRatio = sizes.width / sizes.height
+const camera = new THREE.PerspectiveCamera(75, aspectRatio, 0.1, 100)
 camera.position.z = 3
 scene.add(camera)
+
+
+// Cursor
+const cursor = {
+    x: 0,
+    y: 0
+}
+
+window.addEventListener('mousemove', (event) => {
+    cursor.x = event.clientX / sizes.width - 0.5
+    cursor.y = - (event.clientY / sizes.height - 0.5)
+})
+
 
 // Renderer
 const renderer = new THREE.WebGLRenderer({
@@ -76,6 +91,25 @@ const tick = () => {
     /* cubeB.position.x = Math.cos(elapsedTime)
         cubeB.position.y = Math.sin(elapsedTime)
         camera.lookAt(cubeB.position)*/
+
+    // Camera Animations
+    const cameraAnimations = {
+        closePerespectiveX: cursor.x * 3,
+        closePerespectiveY: cursor.y * 3,
+        widePrespectiveTwoX: cursor.x * 10,
+        widePerespectiveTwoY: cursor.y * 10,
+        roundPerespectiveX: Math.cos(cursor.x * 10) * 3,
+        roundPerespectiveZ: Math.sin(cursor.x * 10) * 3,
+        naturalRoundPerespectiveX: Math.cos(cursor.x * Math.PI * 2) * 3,
+        naturalRoundPerespectiveZ: Math.sin(cursor.x * Math.PI * 2) * 3,
+        upDownPerespectiveY: cursor.y * 5
+    }
+
+    // Update Camera
+    camera.position.x = cameraAnimations.naturalRoundPerespectiveX
+    camera.position.y =  cameraAnimations.upDownPerespectiveY
+    camera.position.z =  cameraAnimations.naturalRoundPerespectiveZ
+    camera.lookAt(new THREE.Vector3())
 
     // Render
     renderer.render(scene, camera)
