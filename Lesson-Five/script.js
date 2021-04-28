@@ -115,6 +115,10 @@ const tick = () => {
 
     // Controls
     const controls = new OrbitControls(camera, canvas)
+    controls.target.set(0, 0, 0);
+    controls.enableDamping = true;
+    controls.dampingFactor = 0.07;
+    controls.rotateSpeed = 0.004;
 
     // Render
     renderer.render(scene, camera)
