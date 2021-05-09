@@ -38,9 +38,22 @@ scene.add(axesHelper)
 
 // Sizes
 const sizes = {
-    width: 2000,
-    height: 1000
+    width: window.innerWidth,
+    height: window.innerHeight
 }
+
+// ViewPort Flexibility
+window.addEventListener('resize', () => {
+    
+    sizes.width = window.innerWidth
+    sizes.height = window.innerHeight
+
+    camera.aspect = sizes.width / sizes.height
+    camera.updateProjectionMatrix()
+
+    renderer.setSize(sizes.width, sizes.height)
+
+})
 
 // Camera
 /* const newCamera = new THREE.OrthographicCamera(-1 * aspectRation, 1 * aspectRation, 1, -1, 0.1, 100) */
