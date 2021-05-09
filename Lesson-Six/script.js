@@ -44,7 +44,7 @@ const sizes = {
 
 // ViewPort Flexibility
 window.addEventListener('resize', () => {
-    
+
     sizes.width = window.innerWidth
     sizes.height = window.innerHeight
 
@@ -52,7 +52,29 @@ window.addEventListener('resize', () => {
     camera.updateProjectionMatrix()
 
     renderer.setSize(sizes.width, sizes.height)
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2))
 
+})
+
+window.addEventListener('dblclick', () => {
+    const fullScreenElement = document.fullscreenElement || document.webkitFullscreenElement
+
+    if (!fullscreenElement) {
+        if(canvas.requestFullscreen) {
+            canvas.requestFullscreen()
+        }
+        else if(canvas.webkitRequestFullscreen) {
+            canvas.webkitRequestFullscreen()
+        }
+    }
+    else {
+        if(document.exitFullscreen) {
+            document.exitFullscreen()
+        }
+        else if(document.webkitExitFullscreen) {
+            document.webkitExitFullscreen()
+        }
+    }
 })
 
 // Camera
