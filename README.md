@@ -9,6 +9,7 @@ For **Learning** With *Ease*. <br>
 
 ![Roadmap](Roadmap.png)
 
+
 # Lessons
 ### Lesson 1
 **Containing**:
@@ -16,11 +17,23 @@ For **Learning** With *Ease*. <br>
 * [ ] Lorem <br>
 * [ ] Lorem <br>
 
+**Sources**:
+* [First Source](https://github.com "GitHub Home Page")
+* [Second Source](https://github.com "GitHub Home Page")
+* [Third Source](https://github.com "GitHub Home Page")
+
+
 ### Lesson 2
 **Containing**:
 * [ ] Lorem <br>
 * [ ] Lorem <br>
 * [ ] Lorem <br>
+
+**Sources**:
+* [First Source](https://github.com "GitHub Home Page")
+* [Second Source](https://github.com "GitHub Home Page")
+* [Third Source](https://github.com "GitHub Home Page")
+
 
 ### Lesson 3
 **Containing**:
@@ -28,11 +41,23 @@ For **Learning** With *Ease*. <br>
 * [ ] Lorem <br>
 * [ ] Lorem <br>
 
+**Sources**:
+* [First Source](https://github.com "GitHub Home Page")
+* [Second Source](https://github.com "GitHub Home Page")
+* [Third Source](https://github.com "GitHub Home Page")
+
+
 ### Lesson 4
 **Containing**:
 * [ ] Lorem <br>
 * [ ] Lorem <br>
 * [ ] Lorem <br>
+
+**Sources**:
+* [First Source](https://github.com "GitHub Home Page")
+* [Second Source](https://github.com "GitHub Home Page")
+* [Third Source](https://github.com "GitHub Home Page")
+
 
 ### Lesson 5
 **Containing**:
@@ -40,11 +65,24 @@ For **Learning** With *Ease*. <br>
 * [ ] Lorem <br>
 * [ ] Lorem <br>
 
+**Sources**:
+* [First Source](https://github.com "GitHub Home Page")
+* [Second Source](https://github.com "GitHub Home Page")
+* [Third Source](https://github.com "GitHub Home Page")
+
+
 ### Lesson 6
 **Containing**:
 * [ ] Lorem <br>
 * [ ] Lorem <br>
 * [ ] Lorem <br>
+
+**Sources**:
+* [First Source](https://github.com "GitHub Home Page")
+* [Second Source](https://github.com "GitHub Home Page")
+* [Third Source](https://github.com "GitHub Home Page")
+
+
 
 # Including :star2:
 My **ThreeJs** Projects and **3D** *Models*.
