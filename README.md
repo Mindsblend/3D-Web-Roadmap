@@ -11,6 +11,8 @@ For **Learning** With *Ease*. <br>
 
 
 # Lessons
+<br> <br>
+
 ## Lesson 1
 **Containing**:
 * [x] Lorem <br>
