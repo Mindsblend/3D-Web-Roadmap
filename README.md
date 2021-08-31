@@ -11,7 +11,7 @@ For **Learning** With *Ease*. <br>
 
 
 # Lessons
-### Lesson 1
+## Lesson 1
 **Containing**:
 * [x] Lorem <br>
 * [ ] Lorem <br>
@@ -23,7 +23,7 @@ For **Learning** With *Ease*. <br>
 * [Third Source](https://github.com "GitHub Home Page")
 
 
-### Lesson 2
+## Lesson 2
 **Containing**:
 * [ ] Lorem <br>
 * [ ] Lorem <br>
@@ -35,7 +35,7 @@ For **Learning** With *Ease*. <br>
 * [Third Source](https://github.com "GitHub Home Page")
 
 
-### Lesson 3
+## Lesson 3
 **Containing**:
 * [ ] Lorem <br>
 * [ ] Lorem <br>
@@ -47,7 +47,7 @@ For **Learning** With *Ease*. <br>
 * [Third Source](https://github.com "GitHub Home Page")
 
 
-### Lesson 4
+## Lesson 4
 **Containing**:
 * [ ] Lorem <br>
 * [ ] Lorem <br>
@@ -59,7 +59,7 @@ For **Learning** With *Ease*. <br>
 * [Third Source](https://github.com "GitHub Home Page")
 
 
-### Lesson 5
+## Lesson 5
 **Containing**:
 * [ ] Lorem <br>
 * [ ] Lorem <br>
@@ -71,7 +71,7 @@ For **Learning** With *Ease*. <br>
 * [Third Source](https://github.com "GitHub Home Page")
 
 
-### Lesson 6
+## Lesson 6
 **Containing**:
 * [ ] Lorem <br>
 * [ ] Lorem <br>
