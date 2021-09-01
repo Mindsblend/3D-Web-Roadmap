@@ -15,14 +15,17 @@ For **Learning** With *Ease*. <br>
 
 ## Lesson 1
 **Containing**:
-* [x] Lorem <br>
-* [ ] Lorem <br>
-* [ ] Lorem <br>
+* [ ] Import Library <br>
+* [ ] Create Geometry <br>
+* [ ] Add Material <br>
+* [ ] Create Mesh <br>
+* [ ] Add Camera <br>
+* [ ] Create Scene <br>
 
 **Sources**:
-* [First Source](https://github.com "GitHub Home Page")
-* [Second Source](https://github.com "GitHub Home Page")
-* [Third Source](https://github.com "GitHub Home Page")
+* [Import in React](https://stackoverflow.com/questions/65468784/how-can-i-use-third-js-library-in-react "Stackoverflow")
+* [Custom Geometry](https://stackoverflow.com/questions/17363397/three-js-custom-geometry "Stackoverflow")
+* [Create Material](https://stackoverflow.com/questions/45029209/silver-polished-material-in-three-js "Stackoverflow")
 
 <br> <br>
 
