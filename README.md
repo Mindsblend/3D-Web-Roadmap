@@ -11,7 +11,7 @@ For **Learning** With *Ease*. <br>
 
 
 # Lessons
-<br> <br>
+<br>
 
 ## Lesson 1
 **Containing**:
