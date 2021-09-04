@@ -38,21 +38,21 @@ For **Learning** With *Ease*. <br>
 * [ ] Axes Helper <br>
 
 **Sources**:
-* [Axes Concept](https://stackoverflow.com/questions/62452357/three-js-calculating-the-transformation-matrix-between-two-buffergeometry-posit/62457676#62457676 "GitHub Home Page")
+* [Axes Concept](https://stackoverflow.com/questions/62452357/three-js-calculating-the-transformation-matrix-between-two-buffergeometry-posit/62457676#62457676 "Stackoverflow")
 
 <br> <br>
 
 
 ## Lesson 3
 **Containing**:
-* [ ] Lorem <br>
-* [ ] Lorem <br>
-* [ ] Lorem <br>
+* [ ] Canvas <br>
+* [ ] Mesh <br>
+* [ ] Cameras <br>
 
 **Sources**:
-* [First Source](https://github.com "GitHub Home Page")
-* [Second Source](https://github.com "GitHub Home Page")
-* [Third Source](https://github.com "GitHub Home Page")
+* [Set Canvas To Center](https://stackoverflow.com/questions/44029427/how-to-center-the-three-js-canvas "Stackoverflow")
+* [Animate Mesh](https://stackoverflow.com/questions/67814021/animating-three-js-mesh-in-the-canvas-to-the-mapbox-map "Stackoverflow")
+* [Camera Handeling](https://stackoverflow.com/questions/51151586/three-js-how-to-rotate-object-instead-of-rotating-the-camera "Stackoverflow")
 
 
 <br> <br>
