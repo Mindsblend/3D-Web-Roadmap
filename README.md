@@ -1,7 +1,5 @@
 ![Header](ThreeJs-Badge.png)
 
-# Building ...
-
 # ThreeJs :star:
 **ThreeJs** Training and Learning **RoadMap** Sources. <br>
 **Follow** Each **Lesson** For *Ready-To-Go* **Files** and **Data**, <br>
