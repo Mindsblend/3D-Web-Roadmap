@@ -85,14 +85,12 @@ For **Learning** With *Ease*. <br>
 
 ## Lesson 6
 **Containing**:
-* [ ] Lorem <br>
-* [ ] Lorem <br>
-* [ ] Lorem <br>
+* [ ] Window Resize <br>
+* [ ] Cursor <br>
 
 **Sources**:
-* [First Source](https://github.com "GitHub Home Page")
-* [Second Source](https://github.com "GitHub Home Page")
-* [Third Source](https://github.com "GitHub Home Page")
+* [Resizing Experience](https://stackoverflow.com/questions/60473182/three-js-window-resizing-issue-not-real-view-size "Stackoverflow")
+* [Raycasting Cursor](https://stackoverflow.com/questions/43952747/three-js-raycasting-find-point-closest-to-cursor "Stackoverflow")
 
 <br> <br>
 
