@@ -72,14 +72,13 @@ For **Learning** With *Ease*. <br>
 
 ## Lesson 5
 **Containing**:
-* [ ] Lorem <br>
-* [ ] Lorem <br>
-* [ ] Lorem <br>
+* [ ] Camera <br>
+* [ ] Positions <br>
+* [ ] OrbitControl <br>
 
 **Sources**:
-* [First Source](https://github.com "GitHub Home Page")
-* [Second Source](https://github.com "GitHub Home Page")
-* [Third Source](https://github.com "GitHub Home Page")
+* [Update Orbit Control](https://stackoverflow.com/questions/52607157/move-camera-and-update-its-orbitcontrol-in-three-js "Stackoverflow")
+* [Orbit Experience](https://stackoverflow.com/questions/66286987/three-js-orbitcontrol-misbehaving "Stackoverflow")
 
 
 <br> <br>
