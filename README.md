@@ -59,14 +59,14 @@ For **Learning** With *Ease*. <br>
 
 ## Lesson 4
 **Containing**:
-* [ ] Lorem <br>
-* [ ] Lorem <br>
-* [ ] Lorem <br>
+* [ ] Groups <br>
+* [ ] Animations <br>
+* [ ] Time <br>
 
 **Sources**:
-* [First Source](https://github.com "GitHub Home Page")
-* [Second Source](https://github.com "GitHub Home Page")
-* [Third Source](https://github.com "GitHub Home Page")
+* [Groups Callback](https://stackoverflow.com/questions/65482826/three-js-loading-manager-how-to-create-separate-groups-with-separate-callbacks "Stackoverflow")
+* [Animation Sample](https://stackoverflow.com/questions/42756670/regarding-three-js-animation "Stackoverflow")
+* [Improve Loading](https://stackoverflow.com/questions/49006997/improving-three-js-loading-time "Stackoverflow")
 
 <br> <br>
 
