@@ -33,14 +33,12 @@ For **Learning** With *Ease*. <br>
 
 ## Lesson 2
 **Containing**:
-* [ ] Lorem <br>
-* [ ] Lorem <br>
-* [ ] Lorem <br>
+* [ ] Improve Scene <br>
+* [ ] Responsive Scene <br>
+* [ ] Axes Helper <br>
 
 **Sources**:
-* [First Source](https://github.com "GitHub Home Page")
-* [Second Source](https://github.com "GitHub Home Page")
-* [Third Source](https://github.com "GitHub Home Page")
+* [Axes Concept](https://stackoverflow.com/questions/62452357/three-js-calculating-the-transformation-matrix-between-two-buffergeometry-posit/62457676#62457676 "GitHub Home Page")
 
 <br> <br>
 
