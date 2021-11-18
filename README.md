@@ -94,5 +94,10 @@ These **roadmaps** cover everything that is there to learn for the *paths* liste
 
 <br> <br>
 
-# Including :star2:
-My **ThreeJs** Projects and **3D** *Models*.
+# Contribution
+Have a look at **contribution** docs and **discussions** for how to update any of the roadmaps.
+
+> Open pull request with improvements
+> Discuss ideas in issues
+> Spread the word
+> Reach out with any feedback
