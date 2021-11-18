@@ -96,7 +96,7 @@ These **roadmaps** cover everything that is there to learn for the *paths* liste
 # Contribution
 Have a look at **contribution** docs and **discussions** for how to update any of the roadmaps.
 
-> Open pull request with improvements <br>
-> Discuss ideas in issues <br>
-> Spread the word <br>
-> Reach out with any feedback
+* Open pull request with improvements <br>
+* Discuss ideas in issues <br>
+* Spread the word <br>
+* Reach out with any feedback
