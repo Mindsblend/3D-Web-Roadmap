@@ -6,14 +6,7 @@
 > Fork Now For Avoiding **Concept Missing** While Learning <br>
 
 # Overview
-<div>
-  <iframe id="inlineFrameExample"
-      title="Inline Frame Example"
-      width="300"
-      height="200"
-      src="https://www.openstreetmap.org/export/embed.html bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&layer=mapnik">
-  </iframe>
-</div>
+![Overview-One](Overview-One.gif)
 
 # Note to Beginners
 These **roadmaps** cover everything that is there to learn for the *paths* listed below. Don't feel overwhelmed, you don't need to learn it all in the beginning if you are just getting started. Also there is available **prepared** 3D objects to boost your learning process.
