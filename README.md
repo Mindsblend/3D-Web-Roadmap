@@ -9,10 +9,6 @@
 ![Overview-One](Overview-One.gif)
 3D Text (https://codepen.io/sanprieto/pen/XWNjBdb?editors=0010)
 
-![Overview-Two](Overview-Two.gif)
-
-![Overview-Three](Overview-Three.gif)
-
 
 # Note to Beginners
 These **roadmaps** cover everything that is there to learn for the *paths* listed below. Don't feel overwhelmed, you don't need to learn it all in the beginning if you are just getting started. Also there is available **prepared** 3D objects to boost your learning process.
