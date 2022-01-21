@@ -9,7 +9,7 @@
 ![Overview-One](Overview-One.gif)
 3D Text (https://codepen.io/sanprieto/pen/XWNjBdb?editors=0010)
 
-![Overview-One](Overview-Two.gif)
+![Overview-Two](Overview-Two.gif)
 3D Switch (https://codepen.io/jhealey5/pen/VxEZKK)
 
 
