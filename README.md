@@ -7,7 +7,7 @@ Feel free to star the project for supporting community and uplifting the project
 # Usage
 Clone the repository, install the dependencies and start the lessons with the base code.
 
-``` javascript
+```shell
 git clone https://github.com/Chamepp/3D-Web-Roadmap.git
 cd lesson
 npm install
