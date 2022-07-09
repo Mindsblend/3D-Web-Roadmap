@@ -92,9 +92,9 @@ To specify the minimum value, the maximum value and the precision, you can set t
 gui.add(mesh.position, 'y', - 3, 3, 0.01)
 ```
 Or you can use the methods min(...), max(...) and step(...) by chaining directly after the add(...) method:
-
+```javascript
 gui.add(mesh.position, 'y').min(- 3).max(3).step(0.01)
-JavaScript
+```
 If you don't like having too many methods chained in one line, you can simply add line breaks:
 ```javascript
 gui
