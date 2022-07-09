@@ -4,6 +4,16 @@
 In this roadmap, you will find all the material required to master threejs including technologies, tools, roadmaps, objects and furthermore.
 Feel free to star the project for supporting community and uplifting the project for the sake of the better community and open-source materials.
 
+# Usage
+Clone the repository, install the dependencies and start the lessons with the base code.
+
+'''
+git clone https://github.com/Chamepp/3D-Web-Roadmap.git
+cd lesson
+npm install
+npm start
+'''
+
 # What will you learn? :closed_book:
 Three.js is vast, and you can do an infinite number of things with it. That explains why this repo lessons is so long.
 First, we will start by learning all the basics, such as creating our first scene, adding objects, choosing the right materials, adding textures, and animating everything.
