@@ -41,3 +41,20 @@ mesh.position.z = 1
 The position property is not any object. It's an instance of the Vector3 class. While this class has an x, a y, and a z property, it also has many useful methods.
 
 You can get the length of a vector:
+```javascript
+console.log(mesh.position.length()
+```
+You can get the distance from another Vector3 (make sure to use this code after creating the camera):
+```javascript
+console.log(mesh.position.distanceTo(camera.position))
+```
+You can normalize its values (meaning that you will reduce the length of the vector to 1 unit but preserve its direction):
+
+```javascript
+console.log(mesh.position.normalize())
+```
+To change the values, instead of changing x, y and z separately, you can also use the set(...) method:
+
+```javascript
+mesh.position.set(0.7, - 0.6, 1)
+```
