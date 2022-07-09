@@ -8,8 +8,7 @@ Feel free to star the project for supporting community and uplifting the project
 Three.js is vast, and you can do an infinite number of things with it. That explains why this repo lessons is so long.
 First, we will start by learning all the basics, such as creating our first scene, adding objects, choosing the right materials, adding textures, and animating everything.
 Then, we will go through many traditional skills: for instance, creating our own geometries, adding lights and shadows, interacting with the 3D objects, adding particles.
-Finally, we will end with more advanced techniques like physics, producing realistic renders, writing custom shaders, adding post-processing, and even creating our own Blender models. That's right! You'll also learn how to use Blender during this course.
-It's pretty neat to hatch stunning WebGL experiences, but if you need a high-end PC that can run AAA games at 140fps to enjoy it, it's not worth it. We will learn how to monitor the performances and apply different tips to make our WebGL experience work on as many devices as possible.
+Finally, we will end with more advanced techniques like physics, producing realistic renders, writing custom shaders, adding post-processing, and even creating our own Blender models. We will learn how to monitor the performances and apply different tips to make our WebGL experience work on as many devices as possible.
 Some things might seem challenging, and don't worry, it's perfectly normal. No one can understand everything on the first try. Each lesson focuses on one skill. These lessons will have you try said skill repeatedly in different situations until it feels comfortable enough.
 
 # The Lessons :microscope:
