@@ -1,5 +1,4 @@
 ![Header](ThreeJs-Badge.png)
-> This is a Complete Roadmap For Becoming a 3D Web Developer <br>
 
 # ThreeJs :star:
 In this roadmap, you will find all the material required to master threejs including technologies, tools, roadmaps, objects and furthermore.
