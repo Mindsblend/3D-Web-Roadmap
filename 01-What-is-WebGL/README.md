@@ -1,6 +1,7 @@
 # Introduction 
 If you are here, you probably already know what Three.js is but let's talk about it and see why we need this library. <br />
-Three.js is a 3D JavaScript library that enables developers to create 3D experiences for the web. It works with WebGL, but you can make it work with SVG <br /> and CSS as well. Those two are quite limited, and we won't cover them in this course.
+Three.js is a 3D JavaScript library that enables developers to create 3D experiences for the web. It works with WebGL, but you can make it work with SVG  and CSS as well. <br />
+Those two are quite limited, and we won't cover them in this course.
 
 # Showcase 
 Here's a preview of what you can achieve with Three.js: <br />
@@ -17,12 +18,15 @@ https://www.midwam.com <br />
 https://heraclosgame.com <br />
 https://chartogne-taillet.com <br />
 https://live.vanmoof.com/site <br />
+<br />
 Before going further, we need to know what WebGL is exactly.
 
 # What is WebGL? 
-WebGL is a JavaScript API that renders triangles in a canvas at a remarkable speed. It's compatible with most modern browsers, and it's fast because it <br /> uses the Graphic Processing Unit (GPU) of the visitor. <br />
+WebGL is a JavaScript API that renders triangles in a canvas at a remarkable speed. <br />
+It's compatible with most modern browsers, and it's fast because it uses the Graphic Processing Unit (GPU) of the visitor. <br />
 WebGL can draw more than triangles and can also be used to create 2D experiences, but we will focus on 3D experiences using triangles for the course's sake.<br />
-The GPU can do thousands of parallel calculations. Imagine that you want to render a 3D model and this model is constituted of 1000 triangles—which, come <br /> to think about it, is not that many. Each triangle includes 3 points. When we want to render our model, the GPU will have to calculate the position <br /> of these 3000 points. Because the GPU can do parallel calculations, it will handle all the triangles points in one raw. <br />
+The GPU can do thousands of parallel calculations. Imagine that you want to render a 3D model and this model is constituted of 1000 triangles—which, come to think about it, is not that many. Each triangle includes 3 points. <br />
+When we want to render our model, the GPU will have to calculate the position of these 3000 points. <br /> Because the GPU can do parallel calculations, it will handle all the triangles points in one raw. <br />
 Once the model's points are well placed, the GPU needs to draw each visible pixel of those triangles. Yet again, the GPU will handle the thousands and thousands of pixels calculations in one go.
 The instructions to place the points and draw the pixels are written in what we call shaders. And let me tell you, shaders are hard to master. We also need to provide data to these shaders. For example: how to place the points according to the model transformations and the camera's properties. These are called matrices. We also need to provide data to help colorize the pixels. If there is a light and the triangle is facing that light, it should be brighter than if the triangle isn't.
 And this is why native WebGL is so hard. Drawing a single triangle on the canvas would take at least 100 lines of code. Good luck if you want to add perspective, lights, models, and animate everything in that case.
