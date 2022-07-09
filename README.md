@@ -1,4 +1,4 @@
-![Header](ThreeJs-Badge.png)
+![Header](Files/ThreeJs-Badge.png)
 
 # ThreeJs :star:
 In this roadmap, you will find all the material required to master threejs including technologies, tools, roadmaps, objects and furthermore.
