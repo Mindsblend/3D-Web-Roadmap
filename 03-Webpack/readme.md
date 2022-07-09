@@ -62,3 +62,67 @@ There are a few things you need to know about the Webpack template before we con
 * The only folders you need to go into are the src/ and the static/ folders.
 * You can access your local server from any other device on the same network by typing the same URL that opened in your browser (which is very useful if you want to debug on mobile).
 * If you make a mistake and the page reloads as a white page, you might need to refresh the page manually once you fixed the error
+  
+# Get our scene back
+  
+Here's the easy part. We want to get our scene back in this Webpack template.
+
+First, you need to add the <canvas> to the src/index.html file:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>04 - Webpack</title>
+</head>
+<body>
+    <canvas class="webgl"></canvas>
+</body>
+</html>
+```
+Remember that you don't need to add any <script>. Webpack will handle this part.
+
+Now you need to add your JavaScript code to the /src/script.js file. The only differences are the two first lines.
+
+```javascript
+import './style.css' will import the CSS and apply it to the page (the CSS file is currently empty).
+import * as THREE from 'three' will import all default classes of Three.js inside the THREE variable. The three module is in the /node_modules/ folder, but you don't need to touch it.
+import './style.css'
+import * as THREE from 'three'
+
+// Scene
+const scene = new THREE.Scene()
+
+// Object
+const geometry = new THREE.BoxGeometry(1, 1, 1)
+const material = new THREE.MeshBasicMaterial({ color: 0xff0000 })
+const mesh = new THREE.Mesh(geometry, material)
+scene.add(mesh)
+
+// Sizes
+const sizes = {
+    width: 800,
+    height: 600
+}
+
+// Camera
+const camera = new THREE.PerspectiveCamera(75, sizes.width / sizes.height)
+camera.position.z = 3
+scene.add(camera)
+
+// Renderer
+const renderer = new THREE.WebGLRenderer({
+    canvas: document.querySelector('canvas.webgl')
+})
+renderer.setSize(sizes.width, sizes.height)
+renderer.render(scene, camera)
+```
+If the server was already running, open the page (no need to refresh).
+
+If not, run npm run dev from the terminal, and the page should open.
+
+
+
+Webpack is a little hard at first, but once you get used to it, it's really powerful. Remember all you need to do with the starter is to open the terminal, go to the project folder, run npm install, run npm run dev and start coding awesome WebGL experiences!
