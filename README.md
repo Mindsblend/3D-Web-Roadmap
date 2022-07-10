@@ -13,6 +13,7 @@ cd lesson
 npm install
 npm start
 ```
+![Roadmap](Files/Roadmap.png)
 
 # What will you learn? :closed_book:
 Three.js is vast, and you can do an infinite number of things with it. That explains why this repo lessons is so long.
