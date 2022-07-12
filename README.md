@@ -2,7 +2,6 @@
 
 # ThreeJs :star:
 In this roadmap, you will find all the material required to master threejs including technologies, tools, roadmaps, objects and furthermore.
-Feel free to star the project for supporting community and uplifting the project for the sake of the better community and open-source materials.
 
 # Usage
 Clone the repository, install the dependencies and start the lessons with the base code.
