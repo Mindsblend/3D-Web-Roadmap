@@ -36,9 +36,5 @@ Another requirement is a modern browser with useful developer tools. I'll be usi
 Finally, if you know nothing about Three.js, you're in the right place.
 
 # Contribution :round_pushpin:
-Have a look at **[contirbutions](https://github.com/Chamepp/3D-Web-Roadmap/blob/master/CONTRIBUTING.md)** docs and **[discussions](https://github.com/Chamepp/3D-Web-Roadmap/discussions)** for how to update any of the roadmaps.
-
-* Open pull request with improvements <br>
-* Discuss ideas in issues <br>
-* Spread the word <br>
-* Reach out with any feedback
+Have a look at **[contirbutions](https://github.com/Chamepp/3D-Web-Roadmap/blob/master/CONTRIBUTING.md)** docs and **[discussions](https://github.com/Chamepp/3D-Web-Roadmap/discussions)** for how to update roadmaps.
+Then select what you want to work on in [issues](https://github.com/Chamepp/3D-Web-Roadmap/issues) section and [improvements](https://wirehaired-faucet-769.notion.site/a435b3723c2a482abef3856d5bc53901?v=76d6978b3f89410f853b7e6c8ec504b7) list for bugs and updates.
