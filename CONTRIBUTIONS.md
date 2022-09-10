@@ -25,5 +25,8 @@ Write meaningful commit messages and look at the existing issues/pull requests t
 **3. Describe improvement's in detail** <br />
 Describe the bug or new feature in details, so we can evaluate changes quickly, and try to improve it if possible
 
-**4. read improvement guidelines before submitting** <br />
+**4. Read improvement guidelines before submitting** <br />
 Read about guidelines and rules like this for every possible improvements guide
+
+**5. Spread the word** <br />
+Share this repo for uplifting the community and repo
