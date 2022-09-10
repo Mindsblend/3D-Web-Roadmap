@@ -2,8 +2,8 @@
 name: Bug Fixed
 about: Describe fixed bug and steps
 title: ''
-labels: fixed
-assignees: ''
+labels: bug, fixed
+assignees: Chamepp
 
 ---
 

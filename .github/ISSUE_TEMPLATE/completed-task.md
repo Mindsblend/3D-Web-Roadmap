@@ -1,6 +1,6 @@
 ---
 name: Completed Task
-about: Performed and Completed Tasks for New Ideas
+about: Performed and completed tasks for new ideas
 title: ''
 labels: completed
 assignees: ''
