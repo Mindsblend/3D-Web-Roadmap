@@ -30,3 +30,6 @@ Read about guidelines and rules like this for every possible improvements guide
 
 **5. Spread the word** <br />
 Share this repo for uplifting the community and repo
+
+**6. Help needed** <br />
+If there's a missing information or you need more help with your contribution, please share in discussions
