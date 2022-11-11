@@ -33,3 +33,6 @@ Share this repo for uplifting the community and repo
 
 **6. Help needed** <br />
 If there's a missing information or you need more help with your contribution, please share in discussions
+
+# Start 🎊
+Take a look at **project tasks** and **improvements** *[here](https://wirehaired-faucet-769.notion.site/a435b3723c2a482abef3856d5bc53901?v=76d6978b3f89410f853b7e6c8ec504b7)*.
