@@ -1,8 +1,7 @@
 ![Header](Files/ThreeJs-Badge.png)
 
 # ThreeJs :star:
-In this roadmap, you will find all the material required to master threejs including technologies, tools, roadmaps, objects and furthermore.
-Feel free to star the project for supporting community and uplifting the project for the sake of the better community and open-source materials.
+In this roadmap, you will find all the material required to master threejs including technologies, tools, roadmaps, objects and furthermore
 
 # Usage
 Clone the repository, install the dependencies and start the lessons with the base code.
@@ -13,6 +12,7 @@ cd lesson
 npm install
 npm start
 ```
+![Roadmap](Files/Roadmap.png)
 
 # What will you learn? :closed_book:
 Three.js is vast, and you can do an infinite number of things with it. That explains why this repo lessons is so long.
@@ -36,9 +36,5 @@ Another requirement is a modern browser with useful developer tools. I'll be usi
 Finally, if you know nothing about Three.js, you're in the right place.
 
 # Contribution :round_pushpin:
-Have a look at **contribution** docs and **discussions** for how to update any of the roadmaps.
-
-* Open pull request with improvements <br>
-* Discuss ideas in issues <br>
-* Spread the word <br>
-* Reach out with any feedback
+Have a look at **[contirbutions](https://github.com/Chamepp/3D-Web-Roadmap/blob/master/CONTRIBUTING.md)** docs and **[discussions](https://github.com/Chamepp/3D-Web-Roadmap/discussions)** for how to update roadmaps.
+Then select what you want to work on in [issues](https://github.com/Chamepp/3D-Web-Roadmap/issues) section and [improvements](https://wirehaired-faucet-769.notion.site/a435b3723c2a482abef3856d5bc53901?v=76d6978b3f89410f853b7e6c8ec504b7) list for bugs and updates.
