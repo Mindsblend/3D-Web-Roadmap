@@ -3,6 +3,11 @@
 <div align="center">
   <img src="Files/ThreeJs-Badge.png" width=200 height=200>
   <h1>3D Web Roadmap</h1>
+  <img src="https://img.shields.io/github/last-commit/oziw/3D-Web-Roadmap">
+  <img src="https://img.shields.io/github/issues-raw/oziw/3D-web-roadmap?color=magenta">
+  <img src="https://img.shields.io/github/issues-pr/oziw/3d-web-roadmap?color=purple">
+  <img src="https://img.shields.io/github/stars/oziw/3d-web-roadmap?style=social">
+  <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Foziw%2F3D-Web-Roadmap">
   <p>
   In this roadmap, you will find all the material required to master 3D Web including</br>technologies, tools, roadmaps, objects and furthermore
   </p>
