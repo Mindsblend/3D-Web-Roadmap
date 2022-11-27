@@ -1,6 +1,7 @@
-![Header](Files/ThreeJs-Badge.png)
+
 
 <div align="center">
+  <img src="Files/ThreeJs-Badge.png" width=200 height=200>
   <h1>3D Web Roadmap</h1>
   <p>
   In this roadmap, you will find all the material required to master 3D Web including</br>technologies, tools, roadmaps, objects and furthermore
