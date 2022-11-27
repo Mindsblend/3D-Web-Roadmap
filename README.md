@@ -1,7 +1,11 @@
 ![Header](Files/ThreeJs-Badge.png)
 
-# ThreeJs :star:
-In this roadmap, you will find all the material required to master threejs including technologies, tools, roadmaps, objects and furthermore
+<div align="center">
+  <h1>3D Web Roadmap</h1>
+  <p>
+  In this roadmap, you will find all the material required to master 3D Web including</br>technologies, tools, roadmaps, objects and furthermore
+  </p>
+</div>
 
 # Usage
 Clone the repository, install the dependencies and start the lessons with the base code.
