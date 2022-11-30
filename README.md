@@ -28,11 +28,6 @@ npm start
 This is the ultimate path for your web development transformation, which helps you with finding your way through 3D web development, gathering the tools and resources needed to master.
 The roadmap includes the 9 top library which is used for todays 3D web development, with resources, code snippets and commonly asked questions inside it.
 There also specific materials for your journey including the objects section, arming you with objects you can practice on.
-# The Lessons :microscope:
-Each lesson covers one subject, and it's better to follow them in order, but if you already feel comfortable with the basics, you can try to jump directly to more advanced techniques like the shaders.
-Each lesson in the roadmap will provide you with a starter code for the first one.
-You will also find it helpful to fork this repo, so you can edit it on your own github profile. 
-Each lesson is based on basic expandable code, but remember, you also have access to a text version on the same page. The formated code involves syntax coloration, and every step of the way, you also have access to previews of the result you're supposed to achieve.
 
 # Resources :balloon:
 The resources gathered for this roadmap are presented by the latest updates and features around the web.
