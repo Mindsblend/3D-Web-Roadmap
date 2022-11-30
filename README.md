@@ -27,7 +27,7 @@ npm start
 # The Roadmap :closed_book:
 This is the ultimate path for your web development transformation, which helps you with finding your way through 3D web development, gathering the tools and resources needed to master.
 The roadmap includes the 9 top library which is used for todays 3D web development, with resources, code snippets and commonly asked questions inside it.
-There also specific materials for your journey including the objects section, arming you with objects you can practice on.
+There are also specific materials for your journey including the objects section, arming you with objects you can practice on.
 
 # Resources :balloon:
 The resources gathered for this roadmap are presented by the latest updates and features around the web.
