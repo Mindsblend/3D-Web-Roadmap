@@ -24,13 +24,10 @@ npm start
 ```
 ![Roadmap](Files/Roadmap.png)
 
-# What will you learn? :closed_book:
-Three.js is vast, and you can do an infinite number of things with it. That explains why this repo lessons is so long.
-First, we will start by learning all the basics, such as creating our first scene, adding objects, choosing the right materials, adding textures, and animating everything.
-Then, we will go through many traditional skills: for instance, creating our own geometries, adding lights and shadows, interacting with the 3D objects, adding particles.
-Finally, we will end with more advanced techniques like physics, producing realistic renders, writing custom shaders, adding post-processing, and even creating our own Blender models. We will learn how to monitor the performances and apply different tips to make our WebGL experience work on as many devices as possible.
-Some things might seem challenging, and don't worry, it's perfectly normal. No one can understand everything on the first try. Each lesson focuses on one skill. These lessons will have you try said skill repeatedly in different situations until it feels comfortable enough.
-
+# The Roadmap :closed_book:
+This is the ultimate path for your web development transformation, which helps you with finding your way through 3D web development, gathering the tools and resources needed to master.
+The roadmap includes the 9 top library which is used for todays 3D web development, with resources, code snippets and commonly asked questions inside it.
+There also specific materials for your journey including the objects section, arming you with objects you can practice on.
 # The Lessons :microscope:
 Each lesson covers one subject, and it's better to follow them in order, but if you already feel comfortable with the basics, you can try to jump directly to more advanced techniques like the shaders.
 Each lesson in the roadmap will provide you with a starter code for the first one.
