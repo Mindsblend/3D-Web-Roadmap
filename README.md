@@ -34,13 +34,16 @@ Each lesson in the roadmap will provide you with a starter code for the first on
 You will also find it helpful to fork this repo, so you can edit it on your own github profile. 
 Each lesson is based on basic expandable code, but remember, you also have access to a text version on the same page. The formated code involves syntax coloration, and every step of the way, you also have access to previews of the result you're supposed to achieve.
 
-# The Code :balloon:
-Each developer has their way to code and I have mine. During the lesson, in the starter code file the code will follow my preferences, but do as you wish. If you want to refactor all the code, go ahead.
+# Resources :balloon:
+The resources gathered for this roadmap are presented by the latest updates and features around the web.
 
-# Prerequisite :barber:
-This course is beginner-friendly, yet you need to know JavaScript basics like variables, loops, function, events, and, perhaps, modules. Don't worry about this last point; you'll figure out the module basics by following the next lessons.
-Another requirement is a modern browser with useful developer tools. I'll be using Chrome, but you can also use Firefox. I don't recommend other browsers because we need our tools to be robust and efficient. At some point, we will install a Chrome extension to help us monitor WebGL performances, but this part is optional.
-Finally, if you know nothing about Three.js, you're in the right place.
+The roadmap includes:
+
+1. Learning Path
+2. Code Snippets
+3. Common Bugs
+4. Commonly Asked Questions
+5. Latest Tutorial Blogs and Videos
 
 # Contribution :round_pushpin:
 Have a look at **[contirbutions](https://github.com/Chamepp/3D-Web-Roadmap/blob/master/CONTRIBUTING.md)** docs and **[discussions](https://github.com/Chamepp/3D-Web-Roadmap/discussions)** for how to update roadmaps.
