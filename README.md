@@ -12,6 +12,9 @@
   In this roadmap, you will find all the material required to master 3D Web including</br>technologies, tools, roadmaps, objects and furthermore
   </p>
 </div>
+# Building ...
+The project is currently in the development stage and we are looking for contributors.
+If you want to be part of this big roadmap, which helps more developers transform faster with guidelines dedicated to the 3d world, read the check the contirbutions section in this readme.
 
 # Usage
 Clone the repository, install the dependencies and start the lessons with the base code.
