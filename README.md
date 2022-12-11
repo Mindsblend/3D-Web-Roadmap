@@ -17,15 +17,6 @@
 The project is currently in the development stage and we are looking for contributors.
 If you want to be part of this big roadmap, which helps more developers transform faster with guidelines dedicated to the 3d world, read the check the contirbutions section in this readme.
 
-# Usage
-Clone the repository, install the dependencies and start the lessons with the base code.
-
-```shell
-git clone https://github.com/Chamepp/3D-Web-Roadmap.git
-cd lesson
-npm install
-npm start
-```
 ![Roadmap](Files/Roadmap.png)
 
 # The Roadmap :closed_book:
