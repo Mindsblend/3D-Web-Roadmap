@@ -15,25 +15,74 @@
 
 3D Web Development Roadmap
 
-* **Getting Started**
-    * [Introduction to 3D Web Development](getting-started/introduction.md)
-    * [Tools and Technologies](getting-started/tools-and-technologies.md)
-* **Basics of 3D Graphics**
-    * [Points, Lines, and Shapes](basics-of-3d-graphics/points-lines-and-shapes.md)
-    * [Textures](basics-of-3d-graphics/textures.md)
-    * [3D Graphics APIs](basics-of-3d-graphics/3d-graphics-apis.md)
-* **3D Libraries and Frameworks**
-    * [three.js](3d-libraries-and-frameworks/three.js)
-        * [Getting Started with three.js](3d-libraries-and-frameworks/three.js/getting-started.md)
-        * [Basic Concepts](3d-libraries-and-frameworks/three.js/basic-concepts.md)
-        * [Advanced Concepts](3d-libraries-and-frameworks/three.js/advanced-concepts.md)
-    * [cannon.js](3d-libraries-and-frameworks/cannon.js)
-        * [Getting Started with cannon.js](3d-libraries-and-frameworks/cannon.js/getting-started.md)
-        * [Basic Concepts](3d-libraries-and-frameworks/cannon.js/basic-concepts.md)
-        * [Advanced Concepts](3d-libraries-and-frameworks/cannon.js/advanced-concepts.md)
-* **Building 3D Web Applications**
-    * [The Basics](building-3d-web-applications/the-basics.md)
-    * [Challenges](building-3d-web-applications/challenges.md)
+# 3D Web Development Roadmap
+
+- Getting Started
+  - Introduction to 3D Web Development
+  - Setting Up the Development Environment
+  - Basic HTML, CSS, and JavaScript Review
+
+- Graphics and 3D Concepts
+  - Introduction to 3D Graphics
+  - Understanding 3D Coordinate Systems
+  - Working with 3D Models and Textures
+  - Lighting and Shading in 3D
+
+- WebGL Fundamentals
+  - Introduction to WebGL
+  - Rendering with WebGL
+  - Interactivity and User Input
+  - WebGL Optimization Techniques
+
+- Three.js Basics
+  - Getting Started with Three.js
+  - Creating Scenes, Cameras, and Renderers
+  - Working with Geometries and Meshes
+  - Material and Texture Mapping
+  - Animation and Tweening
+
+- Advanced Three.js
+  - Shaders and Custom Materials
+  - Post-Processing Effects
+  - Physics Integration with cannon.js
+  - Raycasting and Collision Detection
+
+- 3D Web Development Projects
+  - Building a 3D Portfolio Website
+  - Creating Interactive 3D Presentations
+  - Developing 3D Games for the Web
+  - Building AR/VR Experiences with WebXR
+
+- Augmented Reality (AR)
+  - Introduction to AR on the Web
+  - Marker-Based AR with AR.js
+  - Markerless AR with A-Frame
+
+- Virtual Reality (VR)
+  - Introduction to VR on the Web
+  - Building VR Scenes with A-Frame
+  - WebVR and WebXR Integration
+
+- 3D Web Development Optimization
+  - Performance Optimization Techniques
+  - Mobile and Cross-Browser Compatibility
+  - Reducing Load Times for 3D Content
+
+- Troubleshooting and Debugging
+  - Common Issues and Solutions
+  - Debugging WebGL and Three.js Applications
+  - Handling Cross-Browser Compatibility
+
+- Community and Collaboration
+  - Contribution Guidelines
+  - Showcase and Share Your Projects
+  - Q&A and Support
+  - Engaging with the 3D Web Dev Community
+
+- Resources and Further Learning
+  - Recommended Books and Tutorials
+  - Web Development Blogs and Websites
+  - Useful Tools and Libraries for 3D Web Dev
 
 
 # The Roadmap :closed_book:
