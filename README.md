@@ -13,8 +13,6 @@
   </p>
 </div>
 
-3D Web Development Roadmap
-
 # 3D Web Development Roadmap
 
 - Getting Started
