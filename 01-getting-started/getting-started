@@ -16,3 +16,20 @@ Review CSS to style and position your 3D elements within the web layout.
 Refresh your JavaScript knowledge to make your 3D web projects interactive and dynamic.
 By completing this "Getting Started" section, you will have a solid foundation in web development concepts and be ready to dive deeper into the world of 3D web development with the subsequent 
 sections of this roadmap.
+
+Stack Overflow Questions:
+Getting started with Three.js
+How to create a basic 3D scene with WebGL?
+Setting up a local development server for web development
+Introduction to Git and version control
+Resources for learning HTML, CSS, and JavaScript
+Blogs and Tutorials:
+MDN Web Docs - Web development tutorials
+Three.js Fundamentals - Official Three.js tutorials
+A List Apart - Web design and development articles
+WebGL Fundamentals - Online tutorials for learning WebGL
+CSS-Tricks - Web design and development blog
+3D Web Development Topics:
+Introduction to WebGL - Mozilla Developer Network
+Three.js Documentation - Official documentation for Three.js
+WebGL Fundamentals - Learn the fundamentals of WebGL programming
