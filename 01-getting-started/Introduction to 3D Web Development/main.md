@@ -31,3 +31,17 @@ To create 3D web experiences, developers rely on a combination of technologies, 
 ## Prerequisites
 To make the most of this 3D web development journey, it is beneficial to have a good understanding of HTML, CSS, and JavaScript. Familiarity with basic programming concepts and some experience with web development will be advantageous, but even beginners can follow along and learn with enthusiasm.
 
+## Stack Overflow:
+three.js
+webgl
+javascript
+cannon.js
+a-frame
+## Blogs:
+Three.js Blog
+Aerotwist
+David Walsh Blog
+## YouTube Tutorials:
+The Coding Train
+Fireship
+
