@@ -47,7 +47,7 @@ Share your animation projects and interact with the community! In this section, 
 
 Here are some additional resources and tutorials to further enhance your knowledge of animation and tweening in 3D web development:
 
-**Basic Object Animation with Three.js**
+[**Basic Object Animation with Three.js**
 
 Description: Learn how to animate simple 3D objects using keyframes and interpolation techniques in Three.js.
 Tutorial Link: ExampleTutorial1
@@ -66,7 +66,11 @@ Tutorial Link: ExampleTutorial4
 **Particle System Animations**
 
 Description: Dive into animating particle systems to simulate effects like fire, smoke, and explosions.
-Tutorial Link: ExampleTutorial5
+Tutorial Link: ExampleTutorial5](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene - The official three.js docs have a great getting started guide and introduction.
+https://www.freecodecamp.org/news/how-to-get-started-with-three-js-in-5-minutes-or-less-36d37e0978f3/ - A quickstart three.js tutorial from freeCodeCamp. Covers scene, camera, renderer, geometry, material, mesh, and animation.
+https://discoverthreejs.com/ - A book called "Discover Three.js" with interactive examples and visualizations for learning core three.js concepts.)https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene - The official three.js docs have a great getting started guide and introduction.
+https://www.freecodecamp.org/news/how-to-get-started-with-three-js-in-5-minutes-or-less-36d37e0978f3/ - A quickstart three.js tutorial from freeCodeCamp. Covers scene, camera, renderer, geometry, material, mesh, and animation.
+https://discoverthreejs.com/ - A book called "Discover Three.js" with interactive examples and visualizations for learning core three.js concepts.
 
 ---
 
